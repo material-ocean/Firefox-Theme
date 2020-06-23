@@ -1,3 +1,5 @@
+![alt text](customize.png)
+
 ### Installation:
 
 - Add [Firefox-Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) Addon to your firefox browser
