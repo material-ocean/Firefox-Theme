@@ -7,7 +7,7 @@
 - Select Yup to apply the theme
 - Enjoy!
 
-### Other variations:
+### Other variations(Extensions without the need for firefox-color):
 
 - [Material Ocean](https://addons.mozilla.org/en-US/firefox/addon/material-ocean-theme/)
 - [Material Ocean accent color](https://addons.mozilla.org/en-US/firefox/addon/material-ocean-accent-color/)
